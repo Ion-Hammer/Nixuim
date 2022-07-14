@@ -1,0 +1,11 @@
+# Node modules
+/node_modules
+package-lock.json
+
+# Git files
+.Git
+.git
+
+# Test files
+/Testing
+/Test
