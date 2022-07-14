@@ -1,0 +1,7 @@
+{
+    "x00": {
+        "description": "Bootloader error (${ROOT}/main.js)",
+        "00x": "Unknown error (saved to logs)",
+        "01x": "Unknown file entry within services."
+    }
+}

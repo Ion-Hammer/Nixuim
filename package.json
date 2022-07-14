@@ -1,0 +1,7 @@
+{
+  "name": "nixuim",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "random": "^3.0.6"
+  }
+}
